@@ -10,3 +10,7 @@ func Sub(a, b int) int {
 	fmt.Println("sub")
 	return a - b
 }
+
+func Multiply(a, b int) int {
+	return a * b
+}
